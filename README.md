@@ -21,16 +21,16 @@ Questions :
 
 ## Company Name : Amazon
 Questions :
-- [ ] Calculating Maximum Profit (Multiple Ladders Question)
-- [ ] Longest Mountain 
-- [ ] IPL 2021 - Match Day 2 (similar to maximum in subarray)
+- [x] Calculating Maximum Profit (Multiple Ladders Question)
+- [x] Longest Mountain 
+- [x] IPL 2021 - Match Day 2 (similar to maximum in subarray)
 - [ ] Brackets in Matrix Chain Multiplication 
 - [ ] Phone directory (Question similar to this based on Amazon Pay as a service)
 - [ ] Maximum of all subarrays of size k
 - [ ] First non-repeating character in a stream
 - [ ] Count ways to N'th Stair(Order does not matter)
 - [ ] Which among them forms a perfect Sudoku Pattern ?
-- [ ] Nuts and Bolts Problem
+- [x] Nuts and Bolts Problem
 - [ ] Tree Serialization and Deserialization
 - [ ] Column name from a given column number
 - [ ] Rotten Oranges -Multiple Repetitions
